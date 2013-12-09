@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Hurry Up Post
-Plugin URI: http://takuti.me/
+Plugin URI: http://blog.takuti.me/hurry-up-post/
 Description: Put automatic publish timer on your new post page.
 Version: 0.1
 Author: takuti
